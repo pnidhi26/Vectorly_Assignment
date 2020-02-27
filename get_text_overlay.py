@@ -16,7 +16,7 @@
 
 # PRAKASH NIDHI VERMA - IIIT Jabalpur (CSE)
 
-# NOTE:  This solution implimented using by OpenCV-python and the execution time is fast.
+# NOTE:  This solution implemented using by OpenCV-python and the execution time is fast.
 
 #####################
 
